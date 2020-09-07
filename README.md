@@ -6,4 +6,4 @@ The project is developed in Eclipse IDE for Java Developers. The .settings folde
 
 Part of the project classes, which I extended to other classes, are developed by Dr. Kenneth Wong, University of Hong Kong.
 
-Enjoy!
+*Enjoy the game!!!*
